@@ -1,0 +1,53 @@
+/* navbar css */
+
+body {
+  padding-top: 50px;
+}
+	  
+.navbar-brand {
+  padding: 10px !important;
+}
+
+.btn-group {
+  margin-right: 1em;
+}
+
+
+
+/* icons */
+
+ i.fa {
+  vertical-align: 4%;
+}
+
+
+
+/* style */
+
+p {
+  color: #444;
+}
+  
+h1 {
+  color: #3366cc !important;
+  font-size: 28px !important;
+}
+  
+hr {
+  border-color: #3366cc !important;
+}
+
+
+
+/* footer */
+
+footer {
+  margin-top: 2em;
+  border-top: 1px solid #e7e7e7;
+  padding-top: 2.5em;
+  padding-bottom: 1.5em;
+}
+
+footer p {
+  font-size: 90%;
+}
