@@ -1,28 +1,8 @@
-/* navbar css */
-
-body {
-  padding-top: 50px;
-}
-	  
-.navbar-brand {
-  padding: 10px !important;
-}
-
-.btn-group {
-  margin-right: 1em;
-}
-
-
-
-/* icons */
+/* style */
 
  i.fa {
   vertical-align: 4%;
 }
-
-
-
-/* style */
 
 p {
   color: #444;
@@ -30,7 +10,7 @@ p {
   
 h1 {
   color: #3366cc !important;
-  font-size: 28px !important;
+  font-size: 34px !important;
 }
   
 hr {
@@ -42,10 +22,10 @@ hr {
 /* footer */
 
 footer {
-  margin-top: 2em;
-  border-top: 1px solid #e7e7e7;
-  padding-top: 2.5em;
-  padding-bottom: 1.5em;
+  padding-top: 1.5em;
+  border-top: 1px solid #dfdfdf;
+  padding-bottom: 1em;
+  background: #f2f2f2;
 }
 
 footer p {
