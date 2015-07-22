@@ -1,6 +1,6 @@
 <?php
-  $title = "Title";
-  $description = "Description";
+  $title = "Geometrix &middot; Monospark";
+  $description = "A powerful geometry library written in Java.";
 ?>
 
 <?php
@@ -70,7 +70,7 @@
 ?>
 
 <?php
-  include "header.php"
+  include "..\header.php"
 ?>
 
 <main class="text-center">
@@ -181,5 +181,5 @@
 </main>
 
 <?php
-  include "footer.php"
+  include "..\footer.php"
 ?>

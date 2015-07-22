@@ -53,7 +53,7 @@
 	
 	<link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png">
 	
-	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/style.css">
 	
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	
@@ -76,7 +76,7 @@
             <span class="icon-bar"></span>
           </button>
 		  <a href="https://monospark.org">
-		    <img src="monospark_logo_big.svg" class="navbar-brand" />
+		    <img src="/monospark_logo_big.svg" class="navbar-brand" />
 		  </a>
         </div>
         <div class="navbar-collapse collapse navbar-right">
