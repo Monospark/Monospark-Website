@@ -25,6 +25,10 @@
 	padding-bottom: 5em;
   }
   
+  #features .row {
+    margin-bottom: 1em;
+  }
+  
   #get-geometrix {
     padding-top: 4em;
 	border-top: 1px solid #dfdfdf;
