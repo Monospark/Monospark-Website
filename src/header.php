@@ -75,7 +75,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-		  <a href="https://monospark.org">
+		  <a href="/">
 		    <img src="/monospark_logo_big.svg" class="navbar-brand" />
 		  </a>
         </div>
