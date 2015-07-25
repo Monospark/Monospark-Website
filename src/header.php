@@ -12,13 +12,14 @@
     ?>
 	
 	<style>
+	  #preload-shining-logo {
+	    display: none;
+	  }
+	
   	  .navbar-brand {
         height: 70px !important;
-        padding: 16px !important;
-      }
-
-      .navbar-brand:hover {
-        padding: 15px !important;
+        padding-top: 10px !important;
+		padding-bottom: 14px !important;
       }
 
       .navbar-toggle {
@@ -31,7 +32,7 @@
 
       .navbar a {
         font-size: 150%;
-        color: #4a4a4a !important;
+        color: #1a1a1a !important;
       }
 
       .navbar a:hover {
@@ -76,7 +77,11 @@
             <span class="icon-bar"></span>
           </button>
 		  <a href="/">
-		    <img src="/monospark_logo_big.svg" class="navbar-brand" />
+		  
+		    <!-- This element is hidden and is only used to pre-load the shining logo variation.-->
+		    <img id="preload-shining-logo" src="/monospark_logo_big_shining.png" />
+			
+		    <img class="navbar-brand" src="/monospark_logo_big.png" onmouseover="this.src='/monospark_logo_big_shining.png';" onmouseout="this.src='/monospark_logo_big.png';"/>
 		  </a>
         </div>
         <div class="navbar-collapse collapse navbar-right">
