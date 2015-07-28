@@ -8,6 +8,10 @@
 ?>
 
 <style>
+  main {
+    text-align: center;
+  }
+
   p {
     color: #1a1a1a;
   }
@@ -82,10 +86,8 @@
 ?>
 
 <?php
-  include "..\header.php"
+  include "../header.php"
 ?>
-
-<main class="text-center">
 
 <section id="header">
   <img class="center-block img-responsive" id="logo" src="geometrix-logo.png" id="logo" alt="Geometrix logo" />
@@ -190,8 +192,6 @@
   </div>
 </section>
 
-</main>
-
 <?php
-  include "..\footer.php"
+  include "../footer.php"
 ?>

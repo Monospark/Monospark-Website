@@ -62,8 +62,6 @@
   include "header.php"
 ?>
 
-<main>
-
 <section class="container" id="contact-monospark">
   <h1 class="text-center">Contact Monospark</h1>
   <hr />
@@ -101,8 +99,6 @@
 	</div>
   </div>
 </section>
-  
-</main>
 
 <?php
   include "footer.php"

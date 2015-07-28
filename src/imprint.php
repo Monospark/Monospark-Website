@@ -20,6 +20,10 @@
   hr {
     border-color: #3366cc !important;
   }
+  
+  section {
+    align: text-center;
+  }
 </style>
 
 <?php
@@ -31,7 +35,7 @@
   include "header.php"
 ?>
 
-<main class="container text-center">
+<section class="container">
   <h1>Imprint</h1>
   <hr />
   <p>
@@ -43,7 +47,7 @@
     Tel.: +49 016090657824 </br> 
     Email: c.schnick@monospark.org 
   </p>
-</main>
+</section>
 
 <?php
   include "footer.php"

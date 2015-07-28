@@ -1,3 +1,5 @@
+    </main>
+
     <footer class="text-center">
 	  <p>Designed by <a href="https://github.com/milchshakee">Milchshakee</a>. The source code of this website is available at <a href="https://github.com/monospark/monospark-website">GitHub</a></p>
 	</footer>

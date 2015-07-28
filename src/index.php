@@ -149,8 +149,6 @@
   include "header.php"
 ?>
 
-<main>
-
 <section id="header">
   <div class="container">
     <div class="row">
@@ -222,12 +220,6 @@
 	</div>
   </div>
 </section>
-
-<section>
-
-</section>
-
-</main>
 
 <?php
   include "footer.php"
