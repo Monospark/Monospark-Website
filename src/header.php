@@ -27,11 +27,11 @@
       }
 
       .navbar-nav {
-        margin-top: 8px !important;
+        margin-top: 9px !important;
       }
 
       .navbar a {
-        font-size: 150%;
+        font-size: 149%;
         color: #1a1a1a !important;
       }
 
