@@ -8,7 +8,19 @@
 ?>
 
 <style>
-
+  p {
+    color: #1a1a1a;
+  }
+  
+  h1 {
+    color: #3366cc !important;
+    font-size: 34px !important;
+  }
+  
+  hr {
+    border-color: #3366cc !important;
+  }
+  
   #header {
     background: url(grid.png);
 	padding-top: 3.5em;
