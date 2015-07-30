@@ -79,9 +79,9 @@
 		  <a href="/">
 		  
 		    <!-- This element is hidden and is only used to pre-load the shining logo variation.-->
-		    <img id="preload-shining-logo" src="/monospark_logo_big_shining.png" />
+		    <img id="preload-shining-logo" src="/monospark-logo-big-shining.png" />
 			
-		    <img class="navbar-brand" src="/monospark_logo_big.png" onmouseover="this.src='/monospark_logo_big_shining.png';" onmouseout="this.src='/monospark_logo_big.png';"/>
+		    <img class="navbar-brand" src="/monospark-logo-big.png" onmouseover="this.src='/monospark-logo-big-shining.png';" onmouseout="this.src='/monospark-logo-big.png';"/>
 		  </a>
         </div>
         <div class="navbar-collapse collapse navbar-right">

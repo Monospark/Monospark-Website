@@ -90,7 +90,7 @@
 ?>
 
 <section id="header">
-  <img class="center-block img-responsive" id="logo" src="geometrix-logo.png" id="logo" alt="Geometrix logo" />
+  <img class="center-block" id="logo" src="geometrix-logo-big.png" id="logo" alt="Geometrix logo" />
   <h4>A powerful geometry library written in Java.</p>
 </section>
 

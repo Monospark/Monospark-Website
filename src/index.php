@@ -153,7 +153,7 @@
   <div class="container">
     <div class="row">
 	  <div class="col-lg-4 hidden-md hidden-sm hidden-xs">
-	    <img id="big-logo" src="monospark_logo_small_flat.png" />
+	    <img id="big-logo" src="monospark-logo-small-flat.png" />
 	  </div>
 	  <div class="col-lg-8 col-md-12">
         <h1>Awesome Open Source projects from developers, for developers.</h1>
@@ -194,17 +194,17 @@
         </ol>
         <div class="carousel-inner" role="listbox">
           <div class="item active">
-			  <img class="first-slide center-block" src="/geometrix/geometrix-logo.png" />
+			  <img class="first-slide center-block" src="/geometrix/geometrix-logo-big.png" />
                 <h4>A powerful geometry library written in Java.</h4>
                 <p><a class="btn btn-lg btn-default" href="/geometrix.php" role="button">Learn more</a></p>
           </div>
           <div class="item">
-			  <img class="second-slide center-block" src="/geometrix/geometrix-logo.png" />
+			  <img class="second-slide center-block" src="/geometrix/geometrix-logo-big.png" />
                 <h4>A powerful geometry library written in Java.</h4>
                 <p><a class="btn btn-lg btn-default" href="/geometrix.php" role="button">Learn more</a></p>
           </div>
           <div class="item">
-			  <img class="third-slide center-block" src="/geometrix/geometrix-logo.png" />
+			  <img class="third-slide center-block" src="/geometrix/geometrix-logo-big.png" />
                 <h4>A powerful geometry library written in Java.</h4>
                 <p><a class="btn btn-lg btn-default" href="/geometrix.php" role="button">Learn more</a></p>
           </div>
