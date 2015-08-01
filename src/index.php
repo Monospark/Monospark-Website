@@ -158,7 +158,7 @@
 	  <div class="col-lg-8 col-md-12">
         <h1>Awesome Open Source projects from developers, for developers.</h1>
 	    <h3>Consisting entirely out of voluntary developers, Monospark creates and maintains many Open Source projects ranging from java geometry libraries to minecraft server plugins.</h3>
-		<a class="btn btn-primary btn-lg" href="/projects.php" role="button">Explore our projects</a>
+		<a class="btn btn-primary btn-lg" href="/projects/" role="button">Explore our projects</a>
 	  </div>
 	</div>
   </div>
@@ -194,19 +194,19 @@
         </ol>
         <div class="carousel-inner" role="listbox">
           <div class="item active">
-			  <img class="first-slide center-block" src="/geometrix/geometrix-logo-big.png" />
+			  <img class="first-slide center-block" src="/projects/geometrix/geometrix-logo-big.png" />
                 <h4>A powerful geometry library written in Java.</h4>
-                <p><a class="btn btn-lg btn-default" href="/geometrix.php" role="button">Learn more</a></p>
+                <p><a class="btn btn-lg btn-default" href="/projects/geometrix/" role="button">Learn more</a></p>
           </div>
           <div class="item">
-			  <img class="second-slide center-block" src="/geometrix/geometrix-logo-big.png" />
+			  <img class="second-slide center-block" src="/projects/geometrix/geometrix-logo-big.png" />
                 <h4>A powerful geometry library written in Java.</h4>
-                <p><a class="btn btn-lg btn-default" href="/geometrix.php" role="button">Learn more</a></p>
+                <p><a class="btn btn-lg btn-default" href="/projects/geometrix/" role="button">Learn more</a></p>
           </div>
           <div class="item">
-			  <img class="third-slide center-block" src="/geometrix/geometrix-logo-big.png" />
+			  <img class="third-slide center-block" src="/projects/geometrix/geometrix-logo-big.png" />
                 <h4>A powerful geometry library written in Java.</h4>
-                <p><a class="btn btn-lg btn-default" href="/geometrix.php" role="button">Learn more</a></p>
+                <p><a class="btn btn-lg btn-default" href="/projects/geometrix/" role="button">Learn more</a></p>
           </div>
         </div>
         <a class="left carousel-control" href="#feature-carousel" role="button" data-slide="prev">

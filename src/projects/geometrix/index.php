@@ -86,7 +86,7 @@
 ?>
 
 <?php
-  include "../header.php"
+  include "../../header.php"
 ?>
 
 <section id="header">
@@ -193,5 +193,5 @@
 </section>
 
 <?php
-  include "../footer.php"
+  include "../../footer.php"
 ?>

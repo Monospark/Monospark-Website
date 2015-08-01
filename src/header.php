@@ -58,7 +58,7 @@
 	
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -86,7 +86,7 @@
         </div>
         <div class="navbar-collapse collapse navbar-right">
           <ul class="nav navbar-nav navbar-right">
-		    <li><a href="/projects.php"><i class="fa fa-list-alt"></i> Projects</a></li>
+		    <li><a href="/projects/"><i class="fa fa-list-alt"></i> Projects</a></li>
             <li><a href="https://forums.monospark.org"><i class="fa fa-users"></i> Forums</a></li>
             <li><a href="/contact.php"><i class="fa fa-comment"></i> Contact</a></li>
             <li><a href="/about.php"><i class="fa fa-info-circle"></i> About</a></li>
