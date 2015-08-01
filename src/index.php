@@ -189,22 +189,10 @@
       <div id="feature-carousel"class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#feature-carousel" data-slide-to="0" class="active"></li>
-          <li data-target="#feature-carousel" data-slide-to="1"></li>
-          <li data-target="#feature-carousel" data-slide-to="2"></li>
         </ol>
         <div class="carousel-inner" role="listbox">
           <div class="item active">
 			  <img class="first-slide center-block" src="/projects/geometrix/geometrix-logo-big.png" />
-                <h4>A powerful geometry library written in Java.</h4>
-                <p><a class="btn btn-lg btn-default" href="/projects/geometrix/" role="button">Learn more</a></p>
-          </div>
-          <div class="item">
-			  <img class="second-slide center-block" src="/projects/geometrix/geometrix-logo-big.png" />
-                <h4>A powerful geometry library written in Java.</h4>
-                <p><a class="btn btn-lg btn-default" href="/projects/geometrix/" role="button">Learn more</a></p>
-          </div>
-          <div class="item">
-			  <img class="third-slide center-block" src="/projects/geometrix/geometrix-logo-big.png" />
                 <h4>A powerful geometry library written in Java.</h4>
                 <p><a class="btn btn-lg btn-default" href="/projects/geometrix/" role="button">Learn more</a></p>
           </div>
