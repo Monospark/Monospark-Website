@@ -10,6 +10,7 @@
 <style>
   p {
     color: #1a1a1a;
+	text-align: center;
   }
   
   h1 {
@@ -18,32 +19,36 @@
 	text-align: center;
   }
   
+  h3 {
+    text-align: center;
+    margin-bottom: 0.5em !important;
+  }
+  
   hr {
     border-color: #3366cc !important;
   }
+
+  ul {
+    padding-left: 15%;
+  }
   
-  a.list-group-item {
-    padding: 10px 10px !important;
+  #more-to-come img {
+    height: 140px;
   }
   
   .list-group-item {
-    overflow: hidden;
+    padding-left: 2em !important;
+	padding-right: 2em !important;
+  }
+  
+  .list-group-item hr {
+    border-color: #777 !important;
+  }
+  
+  .list-group-item img {
+    padding: 1.2em;
   }
 
-  .list-group-item img {
-    float: left;
-	width: 100px;
-	height: 100px;
-	margin-right: 1em;
-  }
-  
-  .list-group-item h4 {
-    display: inline;
-  }
-  
-  .list-group-item p {
-	margin-top: 0.4em;
-  }
 </style>
 
 <?php
@@ -59,22 +64,26 @@
   <h1>Projects</h1>
   <hr />
   <div class="row">
-    <div class="col-md-6 col-xs-12">
-      <div class="list-group">
-        <a href="geometrix/" class="list-group-item">
-	      <img src="geometrix/geometrix-logo-small.png" class="img-rounded" />
-          <h4>Geometrix</h4>
-          <p class="list-group-item-text">A powerful geometry library written in Java.</p>
-        </a>
+    <div class="col-md-6 col-xs-12" id="geometrix">
+	  <div class="list-group">
+        <div class="list-group-item">
+		  <a href="geometrix/"><img src="geometrix/geometrix-logo-big.png" class="img-rounded center-block" /></a>
+		  <p class="list-group-item-text">A powerful geometry library written in Java. Enter more text here...</p>
+		  <hr />
+	      <h3 class>Subprojects</h3>
+		  <ul>
+		    <li><a href="">Geometrix-Gson</a> (Gson (link) support for Geometrix)</li>
+		    <li><a href="">Geometrix-Jackson</a> (Jackson (link) support for Geometrix)</li>
+		  </ul>
+		</div>
       </div>
 	</div>
-    <div class="col-md-6 col-xs-12">
-      <div class="list-group">
-        <a href="/" class="list-group-item">
-	      <img src="/apple-touch-icon.png" />
-          <h4>More to come!</h4>
-          <p class="list-group-item-text">It takes some time to develop new projects. Since Monospark was recently created, there isn't much to see on this project page. But you can expect more projects soon&#153;!</p>
-        </a>
+    <div class="col-md-6 col-xs-12" id="more-to-come">
+	  <div class="list-group">
+        <div class="list-group-item">
+		  <img src="/apple-touch-icon.png" class="img-rounded center-block" />
+		  <p class="list-group-item-text">It takes some time to develop new projects. Since Monospark was recently created, there isn't much to see on this project page. But you can expect more projects soon&#153;!</p>
+		</div>
       </div>
 	</div>
   </div>
