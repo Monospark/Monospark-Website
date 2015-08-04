@@ -11,7 +11,11 @@
       print $style;
     ?>
 	
-	<style>
+	<style>  
+	  body {
+	    margin-top: 89px !important;
+	  }
+
 	  #preload-shining-logo {
 	    display: none;
 	  }
@@ -36,18 +40,20 @@
       }
 
       .navbar a:hover {
-        color: #3366cc !important;
+	    background: #e5e5e5 !important;
+		border-radius: 2px;
       }
-	
-	  .fa-list-alt {
-	    vertical-align: -5% !important;
-	  }
 	  
       .navbar {
         margin-bottom: 0 !important;
         background: #f2f2f2 !important;
         border-color: #dfdfdf !important;
+		box-shadow: 0px 7px 12px 0px rgba(70,70,70,0.4);
       }
+
+	  .fa-list-alt {
+	    vertical-align: -5% !important;
+	  }
 	</style>
 
 	<link rel="icon" type="image/png" href="/favicon.png">
@@ -67,7 +73,7 @@
 	
   </head>
   <body>
-    <nav class="navbar navbar-default navbar-static-top">
+    <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -95,4 +101,4 @@
       </div>
     </nav>
 	
-	<main>
+	<main class="container">
