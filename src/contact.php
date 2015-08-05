@@ -77,7 +77,7 @@
 	<h4>Project specific issues</h4>
 	<p>Want to report an issue of a specific Monospark project? You can report issues at the issue tracker of the project.</p>
 	<h4>Imprint</h4>
-	<p>Are you looking for the imprint of this website? You can view it here (link)</p>
+	<p>Are you looking for the imprint of this website? You can view it <a href="/imprint.php">here</a></p>
   </div>
 </section>
 
