@@ -1,6 +1,6 @@
 <?php
-  $title = "Title";
-  $description = "Description";
+  $title = "Contact &#183; Monospark";
+  $description = "Contact Monospark.";
 ?>
 
 <?php

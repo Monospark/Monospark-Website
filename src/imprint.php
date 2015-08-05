@@ -1,6 +1,6 @@
 <?php
   $title = "Imprint";
-  $description = "Description";
+  $description = "The imprint of monospark.org.";
 ?>
 
 <?php
@@ -23,6 +23,7 @@
   
   section {
     align: text-center;
+	height: 850px;
   }
 </style>
 
