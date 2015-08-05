@@ -8,22 +8,12 @@
 ?>
 
 <style>
-  p {
-    color: #444;
-  }
-  
-  h1 {
-    color: #3366cc !important;
-    font-size: 34px !important;
-  }
-  
-  hr {
-    border-color: #3366cc !important;
-  }
-  
   section {
-    align: text-center;
 	height: 850px;
+  }
+  
+  section p {
+    text-align: center;
   }
 </style>
 
