@@ -71,7 +71,7 @@
 
   .carousel {
     height: 300px;
-	margin-top: 4em !important;
+	margin-top: 2.5em !important;
   }
   
   .carousel .item {
