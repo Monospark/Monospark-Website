@@ -9,7 +9,6 @@
 
 <style>
   section img {
-    float: left;
 	max-width: 100%;
 	border-radius: 2px;
   }
@@ -30,6 +29,19 @@
 	margin-left: 0;
 	width: 100%;
   }
+  
+  @media (max-width:767px) {	
+	#the-team {
+	  text-align: center;
+	}
+	
+    #the-team img {
+	  display: block;
+	  margin-left: auto !important;
+	  margin-right: auto !important;
+	  margin-bottom: 1em;
+	}
+  }
 
 </style>
 
@@ -49,15 +61,15 @@
   </div>
 </section>
 
-<section class="row">
+<section class="row" id="the-team">
   <div class="col-xs-12">
     <h1>The Team</h1>
 	<hr />
   </div>
-  <div class="col-lg-offset-2 col-lg-4">
+  <div class="col-lg-offset-2 col-lg-4 col-md-offset-1 col-md-5 col-sm-6 col-xs-12">
     <img src="/monospark-logo-small-flat.png" />
   </div>
-  <div class="col-xs-4">
+  <div class="col-lg-4 col-md-5 col-sm-6 col-xs-12">
 	<h2>Christopher Schnick</h2>
 	<div class="links">
 	  <p><a href="mailto:c.schnick@monospark.org">Email</a></p>
